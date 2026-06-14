@@ -151,10 +151,10 @@ git commit -m "chore: update backend submodule to latest commit"
 
 ## 📖 Per-Component Documentation
 
-For setup details, API reference, and module listings, see the README in each submodule:
+For setup details, API reference, and module listings, see the README in each submodule repository:
 
-- **Backend** → [backend/README.md](./backend/README.md) or [on GitHub](https://github.com/ImmortalZeus/eNationalLibrary-Web-Backend)
-- **Frontend** → [frontend/README.md](./frontend/README.md) or [on GitHub](https://github.com/ImmortalZeus/eNationalLibrary-Web-Frontend)
+- **Backend** → [eNationalLibrary-Web-Backend](https://github.com/ImmortalZeus/eNationalLibrary-Web-Backend#readme)
+- **Frontend** → [eNationalLibrary-Web-Frontend](https://github.com/ImmortalZeus/eNationalLibrary-Web-Frontend#readme)
 
 ---
 
